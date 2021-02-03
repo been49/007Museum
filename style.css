@@ -28,6 +28,14 @@ nav a:hover, a:active{
     transition: 0.2;
 }
 
+
+}
+
+.nav .current {
+    background-color: red;
+}
+
+
 body{
     font-family: 'Open Sans', sans-serif;
 }
